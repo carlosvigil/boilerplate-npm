@@ -1,5 +1,6 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "FCC Backend Certification",
+	"author": "Carlos Vigil",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
